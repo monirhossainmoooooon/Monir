@@ -1,0 +1,2 @@
+# Monir
+cargo
